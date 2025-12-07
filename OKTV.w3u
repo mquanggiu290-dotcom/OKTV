@@ -1,0 +1,35 @@
+{		
+ "name": "OKTV",		
+ "author": "กดรีเฟรช ประสาน มุมขวาบน",				
+ "url": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/All%20Menu",	
+ "image": "https://img.freepik.com/premium-vector/national-sports-day-vector-illustration-with-sportsperson-from-different-sport-flat-cartoon_2175-16026.jpg?w=996",		
+ "groups": [		
+
+{		
+   "name": "All TV",		
+   "image": "https://img2.pic.in.th/pic/Gemini_Generated_Image_7bm4qk7bm4qk7bm4-1.gif",
+   "url": "https://raw.githubusercontent.com/mquanggiu290-dotcom/OKTV/refs/heads/main/AllTV.w3u",
+   "stations": [		
+   ]	
+  }	,
+{		
+   "name": "Sport 1 ",		
+   "image": "https://img2.imgbiz.com/imgbiz/anigiffifab7839c4b81a196fd.gif",
+   "url": "https://raw.githubusercontent.com/mquanggiu290-dotcom/OKTV/refs/heads/main/Sport1.w3u",
+   "stations": [		
+   ]	
+  }	,
+{		
+   
+]},
+
+  	{		
+   "name": "กดรีเฟรช ทุกครั้ง",		
+   "image": "https://vc2i.rweb-images.com/www.pandp.co.th/images/column_1556853454/Refresh22.jpg",
+   "url": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/All%20Menu",
+   "stations": [		
+   ]	
+  }	,
+
+ ]		
+}		
