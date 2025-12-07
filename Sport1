@@ -11,6 +11,13 @@
 [
 
 {
+"name":"ONE Championship TV",
+"image":"https://images.pluto.tv/channels/668c5d3bfd9eb2000882bb50/colorLogoPNG.png", 
+"url":"https://jmp2.uk/plu-668c5d3bfd9eb2000882bb50.m3u8",
+"referer":"https://jmp2.uk",
+"info":"Server jmp2.uk",
+"playInNatPlayer":"true"},
+{
 "name":"Bein1HD",
 "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bein_Sports_Logo.svg/500px-Bein_Sports_Logo.svg.png", 
 "url":"https://cdn1.googlecdnforstreaming.live/live/bein1/playlist.m3u8",
