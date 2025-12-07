@@ -6,7 +6,8 @@
     <title>My Live Stream</title>
     
     <link href="https://vjs.zencdn.net/8.10.0/video-js.css" rel="stylesheet" />
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/videojs-overlay/1.1.4/videojs-overlay.css" rel="stylesheet" />
+    
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/videojs-overlay/3.0.0/videojs-overlay.css" rel="stylesheet" />
 
     <style>
         body { margin: 0; padding: 0; background: #000; overflow: hidden; width: 100vw; height: 100vh; }
@@ -21,39 +22,42 @@
     </div>
 
     <script src="https://vjs.zencdn.net/8.10.0/video.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/videojs-overlay/1.1.4/videojs-overlay.min.js"></script>
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/videojs-overlay/3.0.0/videojs-overlay.min.js"></script>
 
     <script src="config.js"></script> 
 
     <script>
-        // ฟังก์ชันช่วยอ่าน URL Param (เหมือนเดิม)
         function getQueryParam(key, def) {
             var urlParams = new URLSearchParams(window.location.search);
             return urlParams.get(key) || def;
         }
 
-        // อ่านค่าจาก config.js หรือ URL
-        // สังเกตว่าเราใช้ตัวแปร myStreamConfig ที่มาจากไฟล์ config.js
         var sourceUrl = myStreamConfig.source; 
         var isAutoplay = getQueryParam("autoplay", myStreamConfig.autoplay);
         var isMute = getQueryParam("mute", myStreamConfig.mute);
 
-        // ตั้งค่า Player
         var player = videojs('player', {
             controls: true,
             autoplay: (isAutoplay === 'true' || isAutoplay === true) ? 'muted' : false,
             muted: (isMute === 'true' || isMute === true),
             fluid: true,
+            html5: {
+                hls: {
+                    overrideNative: true
+                }
+            },
             sources: [{ src: sourceUrl, type: 'application/x-mpegURL' }]
         });
 
         player.ready(function() {
-            // โค้ดส่วน Logo Overlay
             if(myStreamConfig.logo_image) {
                 var overlayContent = '<img src="' + myStreamConfig.logo_image + '" style="max-height:50px;">';
                 if(myStreamConfig.logo_link) {
                     overlayContent = '<a href="' + myStreamConfig.logo_link + '" target="_blank">' + overlayContent + '</a>';
                 }
+                
+                // เรียกใช้ Overlay
                 player.overlay({
                     align: 'top-right',
                     overlays: [{
