@@ -11,6 +11,12 @@
       "stations": []
     },
     {
+      "name": "ALL MOVIES ",
+      "image": "https://img5.pic.in.th/file/secure-sv1/Gemini_Generated_Image_i88gxni88gxni88g-_1_-1-1.gif",
+      "url": "https://raw.githubusercontent.com/mquanggiu290-dotcom/OKTV/refs/heads/main/ALLMOVIES",
+      "stations": []
+    },
+    {
       "name": "Sport 1 ",
       "image": "https://img2.pic.in.th/pic/Gemini_Generated_Image_vjcy5cvjcy5cvjcy.gif",
       "url": "https://raw.githubusercontent.com/mquanggiu290-dotcom/OKTV/refs/heads/main/Sport1",
@@ -21,12 +27,7 @@
       "image": "https://img5.pic.in.th/file/secure-sv1/Gemini_Generated_Image_6t94ym6t94ym6t94-1.gif",
       "url": "https://raw.githubusercontent.com/mquanggiu290-dotcom/OKTV/refs/heads/main/Sport2",
       "stations": []
-    },
-    {
-      "name": "ALL MOVIES ",
-      "image": "https://img5.pic.in.th/file/secure-sv1/Gemini_Generated_Image_i88gxni88gxni88g-_1_-1-1.gif",
-      "url": "https://raw.githubusercontent.com/mquanggiu290-dotcom/OKTV/refs/heads/main/ALLMOVIES",
-      "stations": []
+
     },
     {
       "name": "Android ",
