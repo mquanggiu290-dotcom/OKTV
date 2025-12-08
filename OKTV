@@ -27,18 +27,17 @@
       "image": "https://img5.pic.in.th/file/secure-sv1/Gemini_Generated_Image_6t94ym6t94ym6t94-1.gif",
       "url": "https://raw.githubusercontent.com/mquanggiu290-dotcom/OKTV/refs/heads/main/Sport2",
       "stations": []
-
     },
     {
-      "name": "Android ",
+      "name": "Android (Play Store)",
       "image": "https://cdn.pixabay.com/animation/2023/11/06/16/01/16-01-37-136_256.gif",
-      "url": "market://details?id=com.cloudflare.onedotonedotonedotone",
+      "url": "https://play.google.com/store/apps/details?id=com.cloudflare.onedotonedotonedotone",
       "stations": []
     },
     {
-      "name": "IOS ",
+      "name": "IOS (App Store)",
       "image": "https://cdn.pixabay.com/animation/2023/07/31/11/25/11-25-56-622_256.gif",
-      "url": "itms-apps://apps.apple.com/th/app/1-1-1-1-faster-internet/id1423538627",
+      "url": "https://apps.apple.com/th/app/1-1-1-1-faster-internet/id1423538627",
       "stations": []
     },
     {
