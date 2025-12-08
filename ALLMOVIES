@@ -1,0 +1,259 @@
+{
+  "name": "ALL MOVIES 🎬",
+  "author": "MOVIES Update 8/12/68",
+  "image": "https://img5.pic.in.th/file/secure-sv1/Gemini_Generated_Image_i88gxni88gxni88g-_1_-1-1.gif",
+  "stations": [
+    {
+      "name": "MONO29 (หนังพากย์ไทย)",
+      "image": "https://i.postimg.cc/26dJcxGv/IMG-2741.png",
+      "url": "https://monomax-uiripn.cdn.byteark.com/plain/th/playlist.m3u8",
+      "group": "ช่องทรูวิชั่น",
+      "playInNatPlayer": true
+    },
+    {
+      "name": "MONO29 (หนัง Soundtrack บรรยายไทย)",
+      "image": "https://i.postimg.cc/26dJcxGv/IMG-2741.png",
+      "url": "https://monomax-uiripn.cdn.byteark.com/plain/st/playlist.m3u8",
+      "group": "ช่องทรูวิชั่น",
+      "playInNatPlayer": true
+    },
+    {
+      "name": "HBO HD",
+      "image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/103.png",
+      "url": "https://raw.githubusercontent.com/Thep1313/M3U/refs/heads/main/CHhbo.m3u8",
+      "group": "ช่องทรูวิชั่น",
+      "drm": "clearkey",
+      "drmkey": "9c5735afb4fd402580360aed8364469c:128d55d9ac2b47ad85f86b5d08320179",
+      "playInNatPlayer": true
+    },
+    {
+      "name": "HBO Signature",
+      "image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/104.png",
+      "url": "https://raw.githubusercontent.com/Thep1313/M3U/refs/heads/main/CHhbos.m3u8",
+      "group": "ช่องทรูวิชั่น",
+      "drm": "clearkey",
+      "drmkey": "0db89bae851440a5994f5893ad480494:d88ef77eaedf4451a65be2e0bf6eabde",
+      "playInNatPlayer": true
+    },
+    {
+      "name": "HBO Hits",
+      "image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/105.png",
+      "url": "https://raw.githubusercontent.com/Thep1313/M3U/refs/heads/main/CHhboh.m3u8",
+      "group": "ช่องทรูวิชั่น",
+      "drm": "clearkey",
+      "drmkey": "7c04b8e7aa524afea879b2ed1aef8242:91e72b75fcb94c3bb36cceb741afd621",
+      "playInNatPlayer": true
+    },
+    {
+      "name": "HBO Family",
+      "image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/106.png",
+      "url": "https://raw.githubusercontent.com/Thep1313/M3U/refs/heads/main/19hbof.m3u8",
+      "group": "ช่องทรูวิชั่น",
+      "drm": "clearkey",
+      "drmkey": "07b138f30ad3441ca5a2f476e550af25:826ee4deef4b45cfafd5f79a591b15c6",
+      "playInNatPlayer": true
+    },
+    {
+      "name": "Cinemax",
+      "image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/107.png",
+      "url": "https://raw.githubusercontent.com/Thep1313/M3U/refs/heads/main/CHcinemax.m3u8",
+      "group": "ช่องทรูวิชั่น",
+      "drm": "clearkey",
+      "drmkey": "f48caba466394e93b50780f21798787a:9a074a10db4342e7937076b3e52f6029",
+      "playInNatPlayer": true
+    },
+    {
+      "name": "trueMOVIEHITS",
+      "image": "https://cms.dmpcdn.com/livetv/2022/01/12/275f4b80-7374-11ec-91d2-797a50c5a656_webp_320.png",
+      "url": "https://github.com/cattviptv2605/movies/raw/refs/heads/main/truemoviehits.m3u8",
+      "referer": "https://github.com/",
+      "group": "ช่องทรูวิชั่น",
+      "playInNatPlayer": true
+    },
+    {
+      "name": "CCM",
+      "image": "http://console.celestialtiger.com/images/upload/33c6ce3020b60990be738fdbedc3b8a40980763c.png",
+      "url": "https://dl.dropbox.com/scl/fi/g2gh26764f2brs7som7zn/Ccm.m3u8?rlkey=x63wt3ycm44tmokonokh71ij8&st=t9ibk3hd",
+      "group": "Utv",
+      "playInNatPlayer": true
+    },
+    {
+      "name": "True X-Zyte",
+      "image": "https://www.upload.ee/image/18802489/x-zyte.png",
+      "url": "https://dl.dropbox.com/scl/fi/mpoxdt87wht62uq293bno/Khongdee.m3u8?rlkey=t7ga3q9og1nmgvwh9pz94w2q7&st=mo3gp419",
+      "group": "Utv",
+      "playInNatPlayer": true
+    },
+    {
+      "name": "VIPA",
+      "image": "https://d198sf0nbhx18q.cloudfront.net/web/images/logo/logo.png",
+      "url": "https://bcovlive-a.akamaihd.net/0db95d655989436dbd571dcb8f70d98f/ap-southeast-1/6075037809001/playlist.m3u8",
+      "group": "Utv",
+      "playInNatPlayer": true
+    },
+    {
+      "name": "Zee Nung",
+      "image": "https://www.upload.ee/image/18677832/zeenung.png",
+      "url": "https://amg17931-zee-amg17931c4-samsung-th-5592.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeenung-samsungth/playlist.m3u8",
+      "group": "Utv",
+      "playInNatPlayer": true
+    },
+    {
+      "name": "Channel8 Thailand",
+      "image": "http://www.channel8thailand.com/img/18378709_1492777084098686_554998105_o.png",
+      "url": "https://cdn-th-vip.livestreaming.in.th/ch8/ch8/playlist.m3u8",
+      "group": "Utv",
+      "playInNatPlayer": true
+    },
+    {
+      "name": "IZAAMOVIE",
+      "image": "https://i.ibb.co/B53tBWkh/logoizaamovie.png",
+      "url": "http://49.0.64.96:8007/IZAA",
+      "userAgent": "ห้ามแชร์",
+      "group": "📺 PREMIUM PLAY TV",
+      "playInNatPlayer": true
+    },
+    {
+      "name": "Universal",
+      "image": "https://i.ibb.co/MxZHkhvV/logo-universal.png",
+      "url": "http://49.0.64.96:8007/H-Channel",
+      "userAgent": "ห้ามแชร์",
+      "group": "📺 PREMIUM PLAY TV",
+      "playInNatPlayer": true
+    },
+    {
+      "name": "FuckIDSeries",
+      "image": "https://i.ibb.co/wFSYqgpG/logo-fuckseries.png",
+      "url": "http://49.0.64.96:8007/SERIES",
+      "userAgent": "ห้ามแชร์",
+      "group": "📺 PREMIUM PLAY TV",
+      "playInNatPlayer": true
+    },
+    {
+      "name": "FuckIDTOON",
+      "image": "https://i.ibb.co/qYGcDkdc/logo-fuck-toon.png",
+      "url": "http://49.0.64.96:8007/Cartoonumi",
+      "userAgent": "ห้ามแชร์",
+      "group": "📺 PREMIUM PLAY TV",
+      "playInNatPlayer": true
+    },
+    {
+      "name": "FuckIDMovie",
+      "image": "https://i.ibb.co/nqWvLRYF/logo-fuckmovie.png",
+      "url": "http://49.0.64.96:8007/PING",
+      "userAgent": "ห้ามแชร์",
+      "group": "📺 PREMIUM PLAY TV",
+      "playInNatPlayer": true
+    },
+    {
+      "name": "AMAZING",
+      "image": "https://i.ibb.co/zv40P0s/logo-amazing.png",
+      "url": "http://49.0.64.96:8007/AMAZING",
+      "userAgent": "ห้ามแชร์",
+      "group": "📺 PREMIUM PLAY TV",
+      "playInNatPlayer": true
+    },
+    {
+      "name": "Animal",
+      "image": "https://i.ibb.co/bMtB5NKS/logo-animal.png",
+      "url": "http://49.0.64.96:8007/Animal",
+      "userAgent": "ห้ามแชร์",
+      "group": "📺 PREMIUM PLAY TV",
+      "playInNatPlayer": true
+    },
+    {
+      "name": "Science",
+      "image": "https://i.ibb.co/gQLyLmK/logo-seience.png",
+      "url": "http://49.0.64.96:8007/WSCI",
+      "userAgent": "ห้ามแชร์",
+      "group": "📺 PREMIUM PLAY TV",
+      "playInNatPlayer": true
+    },
+    {
+      "name": "PlayID UNIVERSAL",
+      "image": "https://uppic.cloud/ib/36G21fJFys3RZzo_1738572890.png",
+      "url": "http://49.0.64.96:8007/H-Channel",
+      "group": "📺 PREMIUM PLAY TV",
+      "drm": "clearkey",
+      "drmkey": "af23d7935f1b5f029cccbf7f45543813:142bc597c797bd6d0dc757ca73cfd16b",
+      "playInNatPlayer": true
+    },
+    {
+      "name": "PLAYID MOV2",
+      "image": "https://i.ibb.co/jZ7P3hJ/vvt.png",
+      "url": "http://49.0.64.96:8007/PING",
+      "userAgent": "https://playid.short.gy/",
+      "group": "📺 PREMIUM PLAY TV",
+      "playInNatPlayer": true
+    },
+    {
+      "name": "PlayID Family",
+      "image": "https://i.ibb.co/t3xtr8Q/20241120-191736.png",
+      "url": "http://49.0.64.96:8007/Cartoonumi",
+      "userAgent": "https://playid.short.gy/",
+      "group": "📺 PREMIUM PLAY TV",
+      "playInNatPlayer": true
+    },
+    {
+      "name": "PlayID Series เกาหลี",
+      "image": "https://i.ibb.co/t3xtr8Q/20241120-191736.png",
+      "url": "http://49.0.64.96:8007/SERIES",
+      "group": "📺 PREMIUM PLAY TV",
+      "playInNatPlayer": true
+    },
+    {
+      "name": "Zหนัง​",
+      "image": "https://i.ibb.co/nqWvLRYF/logo-fuckmovie.png",
+      "url": "https://amg17931-zee-amg17931c4-samsung-th-5592.playouts.now.amagi.tv/master.m3u8",
+      "referer": "https://live-demo.iamtheme.com/at",
+      "group": "📺 PREMIUM PLAY TV",
+      "playInNatPlayer": true
+    },
+    {
+      "name": "True​Series",
+      "image": "https://api.makeitso.online/images/png/sd-series.png",
+      "url": "https://raw.githubusercontent.com/Thep1313/M3U/refs/heads/main/CHtserie.m3u8",
+      "referer": "https://livesod365.info/",
+      "userAgent": "Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36",
+      "group": "ช่องทรูวิชั่น",
+      "playInNatPlayer": true
+    },
+    {
+      "name": "ThaiFilm",
+      "image": "https://api.makeitso.online/images/png/sd-thaifilm.png",
+      "url": "https://raw.githubusercontent.com/Thep1313/M3U/refs/heads/main/CHthaif.m3u8",
+      "referer": "https://livesod365.info/",
+      "userAgent": "Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36",
+      "group": "ช่องทรูวิชั่น",
+      "playInNatPlayer": true
+    },
+    {
+      "name": "Film Asia",
+      "image": "https://cms.dmpcdn.com/livetv/2024/01/16/cb907420-b44c-11ee-9687-e7ccd66e1ea3_webp_original.webp",
+      "url": "https://raw.githubusercontent.com/Thep1313/M3U/refs/heads/main/CHfilma.m3u8",
+      "group": "ช่องทรูวิชั่น",
+      "playInNatPlayer": true
+    },
+    {
+      "name": "Film1",
+      "image": "https://cms.dmpcdn.com/livetv/2024/01/16/cad78460-b44c-11ee-80bd-b787d7bab688_webp_original.webp",
+      "url": "https://raw.githubusercontent.com/Thep1313/M3U/refs/heads/main/CHfilm1.m3u8",
+      "group": "ช่องทรูวิชั่น",
+      "playInNatPlayer": true
+    },
+    {
+      "name": "Film2",
+      "image": "https://cms.dmpcdn.com/livetv/2024/01/16/cb3a8bf0-b44c-11ee-bbdb-077300b4f5a1_webp_original.webp",
+      "url": "https://raw.githubusercontent.com/Thep1313/M3U/refs/heads/main/CHfilm2.m3u8",
+      "group": "ช่องทรูวิชั่น",
+      "playInNatPlayer": true
+    },
+    {
+      "name": "Rock Entertainment",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Rock_Entertainment.png/960px-Rock_Entertainment.png",
+      "url": "https://raw.githubusercontent.com/Thep1313/M3U/refs/heads/main/CHrocken.m3u8",
+      "group": "ช่องทรูวิชั่น",
+      "playInNatPlayer": true
+    }
+  ]
+}
