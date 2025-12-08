@@ -29,20 +29,20 @@
       "stations": []
     },
     {
-      "name": "📥 ดาวน์โหลดแอป VPN (แก้ดูไม่ได้)",
-      "image": "https://cdn-icons-png.flaticon.com/512/2099/2099192.png",
+      "name": "📥 โหลด VPN (แก้ดูไม่ได้)",
+      "image": "https://cdn-icons-png.flaticon.com/512/10003/10003996.png",
       "url": "",
       "stations": [
         {
-          "name": "Android (Play Store)",
-          "image": "https://cdn.pixabay.com/animation/2023/11/06/16/01/16-01-37-136_256.gif",
-          "url": "https://bit.ly/3MM8USH",
+          "name": "Android: สแกน QR หรือพิมพ์ 1.1.1.1 ใน PlayStore",
+          "image": "https://api.qrserver.com/v1/create-qr-code/?size=400x400&margin=20&data=https://play.google.com/store/apps/details?id=com.cloudflare.onedotonedotonedotone",
+          "url": "https://play.google.com/store/apps/details?id=com.cloudflare.onedotonedotonedotone",
           "isBrowser": true
         },
         {
-          "name": "IOS (App Store)",
-          "image": "https://cdn.pixabay.com/animation/2023/07/31/11/25/11-25-56-622_256.gif",
-          "url": "https://bit.ly/3YbJpN9",
+          "name": "iOS: สแกน QR หรือพิมพ์ 1.1.1.1 ใน AppStore",
+          "image": "https://api.qrserver.com/v1/create-qr-code/?size=400x400&margin=20&data=https://apps.apple.com/th/app/1-1-1-1-faster-internet/id1423538627",
+          "url": "https://apps.apple.com/th/app/1-1-1-1-faster-internet/id1423538627",
           "isBrowser": true
         }
       ]
