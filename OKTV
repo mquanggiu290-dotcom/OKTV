@@ -37,13 +37,13 @@
           "name": "Android: สแกน QR หรือพิมพ์ 1.1.1.1 ใน PlayStore",
           "image": "https://api.qrserver.com/v1/create-qr-code/?size=400x400&margin=20&data=https://play.google.com/store/apps/details?id=com.cloudflare.onedotonedotonedotone",
           "url": "https://play.google.com/store/apps/details?id=com.cloudflare.onedotonedotonedotone",
-          "isBrowser": true
+          "embed": true
         },
         {
           "name": "iOS: สแกน QR             หรือพิมพ์ 1.1.1.1 ใน AppStore",
           "image": "https://api.qrserver.com/v1/create-qr-code/?size=400x400&margin=20&data=https://apps.apple.com/th/app/1-1-1-1-faster-internet/id1423538627",
           "url": "https://apps.apple.com/th/app/1-1-1-1-faster-internet/id1423538627",
-          "isBrowser": true
+          "embed": "true"
         }
       ]
     },
