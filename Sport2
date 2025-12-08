@@ -1,0 +1,223 @@
+{
+  "name": "Thai League & True ⚽️",
+  "author": "Sport Update",
+  "image": "https://img2.pic.in.th/pic/1000032994.jpg",
+  "stations": [
+    {
+      "name": "PlaysportsFootball1",
+      "image": "https://img2.pic.in.th/pic/1000032994.jpg",
+      "url": "https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL001/HLS/TL001.m3u8",
+      "referer": "https://olympic-embed.ais-vidnt.com",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+      "group": "ThaiLeague",
+      "playInNatPlayer": true
+    },
+    {
+      "name": "PlaysportsFootball2",
+      "image": "https://img2.pic.in.th/pic/1000032994.jpg",
+      "url": "https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL002/HLS/TL002.m3u8",
+      "referer": "https://olympic-embed.ais-vidnt.com",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+      "group": "ThaiLeague",
+      "playInNatPlayer": true
+    },
+    {
+      "name": "PlaysportsFootball3",
+      "image": "https://img2.pic.in.th/pic/1000032994.jpg",
+      "url": "https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL003/HLS/TL003.m3u8",
+      "referer": "https://olympic-embed.ais-vidnt.com",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+      "group": "ThaiLeague",
+      "playInNatPlayer": true
+    },
+    {
+      "name": "PlaysportsFootball4",
+      "image": "https://img2.pic.in.th/pic/1000032994.jpg",
+      "url": "https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL004/HLS/TL004.m3u8",
+      "referer": "https://olympic-embed.ais-vidnt.com",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+      "group": "ThaiLeague",
+      "playInNatPlayer": true
+    },
+    {
+      "name": "PlaysportsFootball5",
+      "image": "https://img2.pic.in.th/pic/1000032994.jpg",
+      "url": "https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL005/HLS/TL005.m3u8",
+      "referer": "https://olympic-embed.ais-vidnt.com",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+      "group": "ThaiLeague",
+      "playInNatPlayer": true
+    },
+    {
+      "name": "PlaysportsFootball6",
+      "image": "https://img2.pic.in.th/pic/1000032994.jpg",
+      "url": "https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL006/HLS/TL006.m3u8",
+      "referer": "https://olympic-embed.ais-vidnt.com",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+      "group": "ThaiLeague",
+      "playInNatPlayer": true
+    },
+    {
+      "name": "PlaysportsFootball7",
+      "image": "https://img2.pic.in.th/pic/1000032994.jpg",
+      "url": "https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL007/HLS/TL007.m3u8",
+      "referer": "https://olympic-embed.ais-vidnt.com",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+      "group": "ThaiLeague",
+      "playInNatPlayer": true
+    },
+    {
+      "name": "PlaysportsFootball8",
+      "image": "https://img2.pic.in.th/pic/1000032994.jpg",
+      "url": "https://49-231-34-108-rewriter.ais-vidnt.com/ais/pla/anevia/live/eds/TL008/HLS/TL008.m3u8",
+      "referer": "https://olympic-embed.ais-vidnt.com",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+      "group": "ThaiLeague",
+      "playInNatPlayer": true
+    },
+    {
+      "name": "PlaysportsFootball9",
+      "image": "https://img2.pic.in.th/pic/1000032994.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/Thep13/M3u@main/M3U8%202.0/safeais9.m3u8",
+      "referer": "https://olympic-embed.ais-vidnt.com",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+      "group": "ThaiLeague",
+      "playInNatPlayer": true
+    },
+    {
+      "name": "Playsports48",
+      "image": "https://img2.pic.in.th/pic/1000032994.jpg",
+      "url": "https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL103/HLS/TL103.m3u8",
+      "referer": "https://olympic-embed.ais-vidnt.com",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+      "group": "ThaiLeague",
+      "playInNatPlayer": true
+    },
+    {
+      "name": "Playsports49",
+      "image": "https://img2.pic.in.th/pic/1000032994.jpg",
+      "url": "https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL104/HLS/TL104.m3u8",
+      "referer": "https://olympic-embed.ais-vidnt.com",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+      "group": "ThaiLeague",
+      "playInNatPlayer": true
+    },
+    {
+      "name": "Playsports50",
+      "image": "https://img2.pic.in.th/pic/1000032994.jpg",
+      "url": "https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL105/HLS/TL105.m3u8",
+      "referer": "https://olympic-embed.ais-vidnt.com",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+      "group": "ThaiLeague",
+      "playInNatPlayer": true
+    },
+    {
+      "name": "SportFHD 1",
+      "image": "https://cms.dmpcdn.com/livetv/2024/01/16/cdd42d20-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp",
+      "url": "https://cdn1.googlecdnforstreaming.live/live/tsp1/playlist.m3u8",
+      "referer": "https://warpdooball.net/",
+      "userAgent": "Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36",
+      "group": "ช่องทรูวิชั่น",
+      "playInNatPlayer": true
+    },
+    {
+      "name": "SportFHD 2",
+      "image": "https://cms.dmpcdn.com/livetv/2024/01/16/ce5c21d0-b44d-11ee-aa7d-afe908f95743_webp_original.webp",
+      "url": "https://cdn1.googlecdnforstreaming.live/live/tsp2/playlist.m3u8",
+      "referer": "https://warpdooball.net/",
+      "userAgent": "Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36",
+      "group": "ช่องทรูวิชั่น",
+      "playInNatPlayer": true
+    },
+    {
+      "name": "SportFHD 3",
+      "image": "https://cms.dmpcdn.com/livetv/2024/01/16/ce9707f0-b44d-11ee-8e80-c3f417d0d932_webp_original.webp",
+      "url": "https://cdn1.googlecdnforstreaming.live/live/tsp3/playlist.m3u8",
+      "referer": "https://warpdooball.net/",
+      "userAgent": "Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36",
+      "group": "ช่องทรูวิชั่น",
+      "playInNatPlayer": true
+    },
+    {
+      "name": "SportFHD 5",
+      "image": "https://cms.dmpcdn.com/livetv/2024/01/16/cf4a2b50-b44d-11ee-aa7d-afe908f95743_webp_original.webp",
+      "url": "https://cdn1.googlecdnforstreaming.live/live/tsp5/playlist.m3u8",
+      "referer": "https://warpdooball.net/",
+      "userAgent": "Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36",
+      "group": "ช่องทรูวิชั่น",
+      "playInNatPlayer": true
+    },
+    {
+      "name": "SportFHD 7",
+      "image": "https://cms.dmpcdn.com/livetv/2024/01/16/cff0f2a0-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp",
+      "url": "https://cdn1.googlecdnforstreaming.live/live/tsp7/playlist.m3u8",
+      "referer": "https://warpdooball.net/",
+      "userAgent": "Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36",
+      "group": "ช่องทรูวิชั่น",
+      "playInNatPlayer": true
+    },
+    {
+      "name": "Bein1HD",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bein_Sports_Logo.svg/500px-Bein_Sports_Logo.svg.png",
+      "url": "https://cdn1.googlecdnforstreaming.live/live/bein1/playlist.m3u8",
+      "referer": "https://warpdooball.net/",
+      "userAgent": "Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36",
+      "group": "ช่องทรูวิชั่น",
+      "playInNatPlayer": true
+    },
+    {
+      "name": "Bein2HD",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bein_Sports_Logo.svg/500px-Bein_Sports_Logo.svg.png",
+      "url": "https://cdn1.googlecdnforstreaming.live/live/bein2/playlist.m3u8",
+      "referer": "https://warpdooball.net/",
+      "userAgent": "Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36",
+      "group": "ช่องทรูวิชั่น",
+      "playInNatPlayer": true
+    },
+    {
+      "name": "Bein3HD",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bein_Sports_Logo.svg/500px-Bein_Sports_Logo.svg.png",
+      "url": "https://cdn1.googlecdnforstreaming.live/live/bein3/playlist.m3u8",
+      "referer": "https://warpdooball.net/",
+      "userAgent": "Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36",
+      "group": "ช่องทรูวิชั่น",
+      "playInNatPlayer": true
+    },
+    {
+      "name": "Bein4HD",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bein_Sports_Logo.svg/500px-Bein_Sports_Logo.svg.png",
+      "url": "https://cdn1.googlecdnforstreaming.live/live/bein4/playlist.m3u8",
+      "referer": "https://warpdooball.net/",
+      "userAgent": "Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36",
+      "group": "ช่องทรูวิชั่น",
+      "playInNatPlayer": true
+    },
+    {
+      "name": "Bein5HD",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bein_Sports_Logo.svg/500px-Bein_Sports_Logo.svg.png",
+      "url": "https://cdn1.googlecdnforstreaming.live/live/bein5/playlist.m3u8",
+      "referer": "https://warpdooball.net/",
+      "userAgent": "Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36",
+      "group": "ช่องทรูวิชั่น",
+      "playInNatPlayer": true
+    },
+    {
+      "name": "Bein6HD",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bein_Sports_Logo.svg/500px-Bein_Sports_Logo.svg.png",
+      "url": "https://cdn1.googlecdnforstreaming.live/live/bein6/playlist.m3u8",
+      "referer": "https://warpdooball.net/",
+      "userAgent": "Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36",
+      "group": "ช่องทรูวิชั่น",
+      "playInNatPlayer": true
+    },
+    {
+      "name": "Bein7HD",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bein_Sports_Logo.svg/500px-Bein_Sports_Logo.svg.png",
+      "url": "https://cdn1.googlecdnforstreaming.live/live/bein7/playlist.m3u8",
+      "referer": "https://warpdooball.net/",
+      "userAgent": "Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36",
+      "group": "ช่องทรูวิชั่น",
+      "playInNatPlayer": true
+    }
+  ]
+}
