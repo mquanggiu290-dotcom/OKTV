@@ -35,8 +35,8 @@
       "stations": [
         {
           "name": "Android: สแกน QR หรือพิมพ์ 1.1.1.1 ใน PlayStore",
-          "image": "https://api.qrserver.com/v1/create-qr-code/?size=400x400&margin=20&data=https://play.google.com/store/apps/details?id=com.cloudflare.onedotonedotonedotone",
-          "url": "https://play.google.com/store/apps/details?id=com.cloudflare.onedotonedotonedotone",
+          "image": "https://api.qrserver.com/v1/create-qr-code/?size=600x600&margin=20&data=https://play.google.com/store/apps/details?id=com.cloudflare.onedotonedotonedotone",
+          "url": "intent://play.google.com/store/apps/details?id=com.cloudflare.onedotonedotonedotone&pcampaignid=web_redirect#Intent;scheme=https;action=android.intent.action.VIEW;package=com.android.vending;S.browser_fallback_url=https://play.google.com/store/apps/details?id=com.cloudflare.onedotonedotonedotone&redirect=0;end",
           "embed": true
         },
         {
