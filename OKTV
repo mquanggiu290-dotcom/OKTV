@@ -29,16 +29,23 @@
       "stations": []
     },
     {
-      "name": "Android (Play Store)",
-      "image": "https://cdn.pixabay.com/animation/2023/11/06/16/01/16-01-37-136_256.gif",
-      "url": "https://play.google.com/store/apps/details?id=com.cloudflare.onedotonedotonedotone",
-      "stations": []
-    },
-    {
-      "name": "IOS (App Store)",
-      "image": "https://cdn.pixabay.com/animation/2023/07/31/11/25/11-25-56-622_256.gif",
-      "url": "https://apps.apple.com/th/app/1-1-1-1-faster-internet/id1423538627",
-      "stations": []
+      "name": "📥 ดาวน์โหลดแอป VPN (แก้ดูไม่ได้)",
+      "image": "https://cdn-icons-png.flaticon.com/512/2099/2099192.png",
+      "url": "",
+      "stations": [
+        {
+          "name": "Android (Play Store)",
+          "image": "https://cdn.pixabay.com/animation/2023/11/06/16/01/16-01-37-136_256.gif",
+          "url": "https://play.google.com/store/apps/details?id=com.cloudflare.onedotonedotonedotone",
+          "isBrowser": true
+        },
+        {
+          "name": "IOS (App Store)",
+          "image": "https://cdn.pixabay.com/animation/2023/07/31/11/25/11-25-56-622_256.gif",
+          "url": "https://apps.apple.com/th/app/1-1-1-1-faster-internet/id1423538627",
+          "isBrowser": true
+        }
+      ]
     },
     {
       "name": "กดรีเฟรช ทุกครั้ง",
